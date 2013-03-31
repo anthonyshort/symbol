@@ -1,0 +1,14 @@
+{
+  "name": "symbol",
+  "repo": "anthonyshort/symbol",
+  "author": "Andrea Giammarchi",
+  "description": "Polyfill for ES6 symbols for ES5 browsers",
+  "version": "0.0.1",
+  "keywords": ["Symbol", "Polyfill", "ES6"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
